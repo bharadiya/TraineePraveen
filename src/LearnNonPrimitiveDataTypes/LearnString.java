@@ -13,3 +13,4 @@ public class LearnString {
 		System.out.println(p.codePointAt(3));
 	}
 }
+
