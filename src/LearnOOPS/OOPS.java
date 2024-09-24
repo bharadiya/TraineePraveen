@@ -29,6 +29,9 @@ public class OOPS {
 		Student s = new Student("Sanjay", 25);
 		s.printStudentInfo();
 
+		Shape t = new Shape();
+		t.area();
+
 //		s.printStudentInfo();
 //		Student praveen = new Student();
 //		praveen.name = "praveen";
